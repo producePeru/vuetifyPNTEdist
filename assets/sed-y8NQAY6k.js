@@ -1,0 +1,1 @@
+import{v as a,b as n,f as s,t as o,u,o as r}from"./index-DPhP9zP0.js";const m={__name:"sed",setup(l){const t=a().params.slug;return(c,e)=>(r(),n("div",null,[e[0]||(e[0]=s("h1",null,"Página dinámica",-1)),s("p",null,"Slug: "+o(u(t)),1)]))}};export{m as default};

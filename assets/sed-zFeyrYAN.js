@@ -1,1 +1,0 @@
-import{ba as t,b4 as n,b5 as s,au as u,v as o,b8 as r}from"./index-DznnIFjw.js";const m={__name:"sed",setup(l){const a=t().params.slug;return(c,e)=>(r(),n("div",null,[e[0]||(e[0]=s("h1",null,"Página dinámica",-1)),s("p",null,"Slug: "+u(o(a)),1)]))}};export{m as default};
