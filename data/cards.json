@@ -1,0 +1,37 @@
+[
+  {
+    "title": "MARIVAL",
+    "description": "20 % descuento accesorios escolares",
+    "img": "mari1.png",
+    "url": "https://web.facebook.com/Marivalaccesorios?mibextid=ZbWKwL&_rdc=1&_rdr#",
+    "price": "S/ 85.00"
+  },
+  {
+    "title": "MARIVAL",
+    "description": "Lazos personalizados , en oferta al 15 % de descuento",
+    "img": "mari2.png",
+    "url": "https://web.facebook.com/Marivalaccesorios?mibextid=ZbWKwL&_rdc=1&_rdr#",
+    "price": "S/ 35.00"
+  },
+  {
+    "title": "MARIVAL",
+    "description": "Lazos personalizados personajes 15 % descuento",
+    "img": "mari3.png",
+    "url": "https://web.facebook.com/Marivalaccesorios?mibextid=ZbWKwL&_rdc=1&_rdr#",
+    "price": "gratis un par de lacitos"
+  },
+  {
+    "title": "HERAGRAFIC",
+    "description": "🌐 Construir una marca va más allá del logo...",
+    "img": "pcc.jpeg",
+    "url": "https://www.facebook.com/heragrafic",
+    "price": "S/40 (50% Descuento)"
+  },
+  {
+    "title": "Kashiri",
+    "description": "Arándanos cubiertos de cacao 70%. Snack listo...",
+    "img": "chocooo.png",
+    "url": "https://kashiriperu.com/product-category/packs/",
+    "price": "S/16"
+  }
+]
