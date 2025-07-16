@@ -132,7 +132,23 @@
   "img": "lydia-campos.png",
   "url": "https://www.facebook.com/share/1LiMcQPje9/",
   "price": "S/ 13.00 (antes S/ 18.00)"
+},
+{
+  "title": "VITO",
+  "description": "Jugos y snacks superfoods.",
+  "img": "vito.png",
+  "url": "https://www.instagram.com/vitoperufoods",
+  "price": "S/ 50 (antes S/ 70)"
+},
+{
+  "title": "Blendo Coffee",
+  "description": "Trío de especialidad: 3 cafés de 250g con tuestes y notas únicas de San Ignacio, Cajamarca.",
+  "img": "blendocoffee.png",
+  "url": "https://www.instagram.com/blendocoffee/",
+  "price": "S/49 (antes S/56)"
 }
+
+
 
 
 

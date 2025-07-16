@@ -1,1 +1,0 @@
-import{aH as n}from"./index-Bj7pDRfw.js";function a(t,e,o,r){n({title:t,meta:[{name:"description",content:e},{property:"og:title",content:t},{property:"og:description",content:e},{property:"og:image",content:"https://tusitio.com/logo.png"}],link:o?[{rel:"icon",href:`/${o}`}]:[]})}export{a as u};
