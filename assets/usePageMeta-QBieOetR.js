@@ -1,1 +1,0 @@
-import{bP as n}from"./index-D_DKfa3_.js";function i(t,e,o,r){n({title:t,meta:[{name:"description",content:e},{property:"og:title",content:t},{property:"og:description",content:e},{property:"og:image",content:"https://tusitio.com/logo.png"}],link:o?[{rel:"icon",href:`/${o}`}]:[]})}export{i as u};
