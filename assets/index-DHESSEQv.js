@@ -1,0 +1,1 @@
+import{_ as t,c as o,d as r,b as s}from"./index-DMaMMhca.js";const c={},n={class:"container mx-auto px-4"};function a(d,e){return s(),o("div",n,e[0]||(e[0]=[r("h1",{class:"text-3xl font-bold text-center text-gray-800"}," Mujer Produce ",-1)]))}const _=t(c,[["render",a]]);export{_ as default};
